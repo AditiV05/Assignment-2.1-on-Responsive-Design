@@ -1,1 +1,1 @@
-# Assignment-2.1-on-Responsive-Design
+# ResponsiveDesign2.1
